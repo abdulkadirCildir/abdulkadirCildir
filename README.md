@@ -18,7 +18,6 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 - 📫 How to reach me: a.cildir89@gmail.com
-
 <img src="./react_animation.gif" alt="react-native" width="20%" height="20%" align="right">
 
 <!--
